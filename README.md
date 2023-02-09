@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Spring Boot and MERN Stack. 
 - 💞️ I’m looking to collaborate on projects where I get to contribute towards animal welfare. 
 - 📫 How to reach me - email me at hundalnicky@gmail.com and I will get back to you !!
-- Still learning git branching. Bear with me.
 - Currently enrolled in Nucamp Bootcamp.
 <!---
 rhundal/rhundal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
