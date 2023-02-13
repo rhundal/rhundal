@@ -13,11 +13,11 @@ You can click the Preview link to take a look at your changes.
 --->
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rhundal?cardType=octocat&theme=synthwave&preferLogin=false)](https://git.io/awesome-stats-card)
 
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhundal)](https://github.com/rhundal/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rhundal)](https://github.com/rhundal/github-readme-stats)
 
 [![Rajdeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhundal)](https://github.com/rhundal/github-readme-stats)
---->
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
