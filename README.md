@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <!---
 ![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhundal&show_icons=true&theme=transparent)
 --->
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rhundal?cardType=octocat&theme=synthwave&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rhundal?cardType=octocat&theme=synthwave&preferLogin=false)]([https://git.io/awesome-stats-card](https://awesome-github-stats.azurewebsites.net/user-stats/rhundal?cardType=octocat&theme=synthwave&preferLogin=false))
 
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rhundal)](https://github.com/rhundal/github-readme-stats)
