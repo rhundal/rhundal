@@ -17,12 +17,13 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rhundal)](https://github.com/rhundal/github-readme-stats)
 
+[![Rajdeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhundal)](https://github.com/rhundal/github-readme-stats)
+
 --->
  <a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/rhundal?date=01" width="550" /></a>
 
 <img src="https://server.dooboo.io/github-trophies/rhundal?date=02" width="720" />
 
-[![Rajdeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhundal)](https://github.com/rhundal/github-readme-stats)
 
 
  
