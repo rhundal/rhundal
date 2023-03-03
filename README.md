@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Spring Boot and MERN Stack. 
 - 💞️ Looking to collaborate on different projects.
 - 📫 How to reach me - email me at hundalnicky@gmail.com and I will get back to you !!
-- I am starting my software development journey again after a decade of break from programming and my goal is to stay consistent. 
 
 <!---
 rhundal/rhundal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
