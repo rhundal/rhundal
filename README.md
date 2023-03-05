@@ -46,3 +46,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://codepen.io/hnicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hnicky" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/hrajdeep712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hrajdeep712" height="30" width="40" /></a>
 </p> -->
+ 
+ ### Connect with me!
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]([[[https://www.linkedin.com/in/dennis-d-58764754/](https://www.linkedin.com/in/hundalr/)](https://www.linkedin.com/in/hundalr/)](https://www.linkedin.com/in/hundalr/))
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:hundalnicky@gmail.com)
