@@ -44,8 +44,12 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Coding:</h3>
 <p align="left">
 <a href="https://codepen.io/hnicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hnicky" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/hrajdeep712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hrajdeep712" height="30" width="40" /></a>
-</p> -->
+<!-- <a href="https://www.hackerrank.com/hrajdeep712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hrajdeep712" height="30" width="40" /></a> -->
+</p> 
+
+<a href="https://expo.dev/accounts/rhundal/snacks"> Snacks - React Native Portfolio </a>
+
+
  
  ### Connect with me!
 
