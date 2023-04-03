@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rajdeep H.
+- 👋 Hi, I’m Rajdeep Hundal.
 - 👀 I’m interested in learning and improving my programming skills. I love art (painting), dogs.
 - 🌱 I’m currently learning Spring Boot and MERN Stack. 
 - 💞️ Looking to collaborate on different projects.
@@ -12,17 +12,16 @@ You can click the Preview link to take a look at your changes.
 ![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhundal&show_icons=true&theme=transparent)
 --->
 
+<!---
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rhundal?cardType=octocat&theme=synthwave&preferLogin=false)]([https://git.io/awesome-stats-card](https://awesome-github-stats.azurewebsites.net/user-stats/rhundal?cardType=octocat&theme=synthwave&preferLogin=false))
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rhundal)](https://github.com/rhundal/github-readme-stats)
-
+--->
 <!---
 [![Rajdeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhundal)](https://github.com/rhundal/github-readme-stats)
----> 
+--->
+[![wakatime](https://wakatime.com/badge/user/4d50d62b-7134-490e-89eb-41b6bfbd3ed9.svg)](https://wakatime.com/@4d50d62b-7134-490e-89eb-41b6bfbd3ed9)
 
 
 
- 
 <hr />
 <h2> 🚀 &nbsp;Some Languages & Tools I Have Used & Learned</h2>
 <p align="left">
