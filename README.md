@@ -19,8 +19,6 @@ You can click the Preview link to take a look at your changes.
 [![Rajdeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhundal)](https://github.com/rhundal/github-readme-stats)
 --->
 [![wakatime](https://wakatime.com/badge/user/4d50d62b-7134-490e-89eb-41b6bfbd3ed9.svg)](https://wakatime.com/@4d50d62b-7134-490e-89eb-41b6bfbd3ed9)
-
-![GitHub Views](https://komarev.com/ghpvc/?username=rhundal)
  
 <p align="center">
 <img src="https://wakatime.com/share/@rhundal/0f205346-7cd5-42d4-bfc1-9ef58098f340.svg" alt="wakastats" width="645" height="445" /> 
