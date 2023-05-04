@@ -20,8 +20,11 @@ You can click the Preview link to take a look at your changes.
 --->
 [![wakatime](https://wakatime.com/badge/user/4d50d62b-7134-490e-89eb-41b6bfbd3ed9.svg)](https://wakatime.com/@4d50d62b-7134-490e-89eb-41b6bfbd3ed9)
 
-<img src="https://wakatime.com/share/@rhundal/0f205346-7cd5-42d4-bfc1-9ef58098f340.svg" alt="wakastats" width="645" height="645" />
-
+![GitHub Views](https://komarev.com/ghpvc/?username=rhundal)
+ 
+<p align="center">
+<img src="https://wakatime.com/share/@rhundal/0f205346-7cd5-42d4-bfc1-9ef58098f340.svg" alt="wakastats" width="645" height="445" /> 
+</p>
 <hr />
 <h2> 🚀 &nbsp;Some Languages & Tools I Have Used & Learned</h2>
 <p align="left">
