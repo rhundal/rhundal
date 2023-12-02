@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and improving my programming skills. I love art (painting), dogs.
 - 🌱 I’m currently learning Spring Boot and MERN Stack. 
 - 💞️ Looking to collaborate on different projects.
-- 📫 How to reach me - email me at hundalnicky@gmail.com and I will get back to you !!
+- 📫 How to reach me - 
 
 <!---
 rhundal/rhundal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
