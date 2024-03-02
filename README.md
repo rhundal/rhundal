@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rajdeep Hundal.
+- 👋 Hi, I’m 
 - 👀 I’m interested in learning and improving my programming skills. I love art (painting), dogs.
 - 🌱 I’m currently learning Spring Boot and MERN Stack. 
 - 💞️ Looking to collaborate on different projects.
@@ -9,14 +9,14 @@ rhundal/rhundal is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <!---
-![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhundal&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rhundal&show_icons=true&theme=transparent)
 --->
 
 <!---
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rhundal?cardType=octocat&theme=synthwave&preferLogin=false)]([https://git.io/awesome-stats-card](https://awesome-github-stats.azurewebsites.net/user-stats/rhundal?cardType=octocat&theme=synthwave&preferLogin=false))
 --->
 <!---
-[![Rajdeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhundal)](https://github.com/rhundal/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhundal)](https://github.com/rhundal/github-readme-stats)
 --->
 [![wakatime](https://wakatime.com/badge/user/4d50d62b-7134-490e-89eb-41b6bfbd3ed9.svg)](https://wakatime.com/@4d50d62b-7134-490e-89eb-41b6bfbd3ed9)
  
@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Coding:</h3>
 <p align="left">
 <a href="https://codepen.io/hnicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hnicky" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/hrajdeep712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hrajdeep712" height="30" width="40" /></a> -->
+<!-- <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="me" height="30" width="40" /></a> -->
 </p> 
 
 <a href="https://expo.dev/accounts/rhundal/snacks"> Snacks - React Native Portfolio </a>
@@ -54,5 +54,3 @@ You can click the Preview link to take a look at your changes.
 
  
  ### Connect with me!
-
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:hundalnicky@gmail.com)
