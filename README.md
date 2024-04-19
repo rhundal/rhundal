@@ -1,8 +1,8 @@
-- 👋 Hi, I’m 
+- 👋 Hi, I’m a Jr. Developer / Daydreamer. 
 - 👀 I’m interested in learning and improving my programming skills. I love art (painting), dogs.
 - 🌱 I’m currently learning Spring Boot and MERN Stack. 
 - 💞️ Looking to collaborate on different projects.
-- 📫 How to reach me - 
+- 📫 How to reach me - In progress
 
 <!---
 rhundal/rhundal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
