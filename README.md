@@ -4,7 +4,7 @@
 - 💞️ Looking to collaborate on different projects.
 - 📫 How to reach me 
 - :video_game: Some of my fav games - The Legend of Kage (Legendary), Bloxorz, Swordigo, Jetpack Joyride, Little Big Planet and many more.
-- :thought_balloon: My mom let some kids have my collection of childhood (80s) toys when I left home to move to USA :( She thought they were no longer of use to me. I lost a huge collection of hot wheels, GI-Joe figures, Glo-friends and various other unique toys which are hard to find today. :broken_heart:
+- :thought_balloon: My mom let some kids have my collection of childhood (80s) toys when I left home to move to USA :( She thought they were no longer of use to me. I lost a huge collection of hot wheels, GI-Joe figures, Glo-friends and various other unique toys which are hard to find today. :broken_heart: Lol I was saving them for my kids but it makes sense I guess since I have no kids today :broken_heart:
 
 <!---
 rhundal/rhundal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
