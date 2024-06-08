@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Spring Boot and MERN Stack. 
 - 💞️ Looking to collaborate on different projects.
 - 📫 How to reach me - In progress
-- :video_game: Some of my fav games - Bloxorz, Swordigo, Jetpack Joyride, Little Big Planet
+- :video_game: Some of my fav games - Bloxorz, Swordigo, Jetpack Joyride, Little Big Planet and many more.
 
 <!---
 rhundal/rhundal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
