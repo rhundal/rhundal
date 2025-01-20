@@ -51,7 +51,10 @@ You can click the Preview link to take a look at your changes.
 <!-- <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="me" height="30" width="40" /></a> -->
 </p> 
 
-<a href="https://expo.dev/accounts/rhundal/snacks"> Snacks - React Native Portfolio </a>
+<a href="https://expo.dev/accounts/rhundal/snacks"> Snacks - React Native Portfolio </a> <br />
+<a href="https://leetcode.com/u/Rhundal/"> LeetCode </a> <br />
+<a href="https://www.hackerrank.com/profile/hrajdeep712"> HackerRank </a> <br />
+
 
 
  
