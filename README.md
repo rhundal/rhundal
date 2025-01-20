@@ -52,8 +52,7 @@ You can click the Preview link to take a look at your changes.
 </p> 
 
 <a href="https://expo.dev/accounts/rhundal/snacks"> Snacks - React Native Portfolio </a> <br />
-<a href="https://leetcode.com/u/Rhundal/"> LeetCode </a> <br />
-<a href="https://www.hackerrank.com/profile/hrajdeep712"> HackerRank </a> <br />
+
 
 
 
