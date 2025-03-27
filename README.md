@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Spring Boot and MERN Stack. 
 - 💞️ Looking to collaborate on different projects.
 - 📫 How to reach me 
-- :video_game: Some of my fav games - The Legend of Kage (Legendary), Bloxorz, Swordigo, Jetpack Joyride, Little Big Planet and many more.
 
 
 <!---
