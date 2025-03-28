@@ -1,21 +1,18 @@
 fetch("https://ipinfo.io/json?token=your_ipinfo_token") 
   .then(response => response.json()) 
   .then(data => {
-      let visitorInfo = `${data.city}, ${data.country}`;
+      let visitorInfo = `${new Date().toLocaleString()} - ${data.city}, ${data.country}`;
 
-      // Retrieve existing visitors from localStorage
+      // Retrieve all visitors from localStorage
       let visitors = JSON.parse(localStorage.getItem("visitors")) || [];
 
-      // Add the new visitor at the beginning
-      visitors.unshift(visitorInfo);
-
-      // Keep only the last 5 visitors
-      visitors = visitors.slice(0, 5);
+      // Add the new visitor at the end
+      visitors.push(visitorInfo);
 
       // Save updated visitors list to localStorage
       localStorage.setItem("visitors", JSON.stringify(visitors));
 
-      // Display visitors
+      // Display all visitors
       displayVisitors(visitors);
   })
   .catch(error => console.error("Error fetching location:", error));
