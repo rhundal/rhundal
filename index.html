@@ -10,14 +10,10 @@
     <ul id="visitor-list">Loading...</ul>
 
     <script src="info.js" defer></script>
-    <!-- Firebase SDK -->
-    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore.js"></script>
 
-<script type="module">
-    import { getFirestore, collection, addDoc, getDocs, query, orderBy, limit } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore.js";
-
-    // Firebase config
+    <!-- Firebase SDK (use modular imports) -->
+    <script type="module">
+        // Firebase config
         const firebaseConfig = {
             apiKey: "AIzaSyD7rP5taloNEiXb9vfoaUbG4peGPbf8J8Q",
             authDomain: "github-visitor-tracker.firebaseapp.com",
@@ -28,18 +24,18 @@
             measurementId: "G-N4688QWLW6"
         };
 
-        // Initialize Firebase
-        const app = firebase.initializeApp(firebaseConfig);
-        
-        // Initialize Firestore
+        // Import Firebase modules
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js";
         import { getFirestore, collection, addDoc, getDocs, query, orderBy, limit } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore.js";
+
+        // Initialize Firebase app and Firestore
+        const app = initializeApp(firebaseConfig);
         const db = getFirestore(app);
 
         // Fetch visitor's location from ipinfo.io
         fetch("https://ipinfo.io/json?token=c0c0b6627f2edf")
             .then(response => response.json())
             .then(data => {
-                // Structure the visitor data
                 const visitorInfo = {
                     timestamp: new Date().toLocaleString(),
                     city: data.city,
@@ -47,35 +43,32 @@
                     ip: data.ip
                 };
 
-                // Save visitor info to Firestore (Firebase)
+                // Save visitor info to Firestore
                 addDoc(collection(db, "visitors"), visitorInfo)
                     .then(() => {
                         console.log("Visitor data saved successfully");
+                        displayVisitors(); // Display the updated list of visitors
                     })
                     .catch(error => {
                         console.error("Error saving data:", error);
                     });
-
-                // Display visitors
-                displayVisitors();
             })
-            .catch(error => {
-                console.error("Error fetching location:", error);
-            });
-    
+            .catch(error => console.error("Error fetching location:", error));
+
         // Function to display visitors
-        async function displayVisitors() {
+        function displayVisitors() {
             const visitorList = document.getElementById("visitor-list");
-            try {
-                const querySnapshot = await getDocs(query(collection(db, "visitors"), orderBy("timestamp", "desc"), limit(5)));
-                querySnapshot.forEach(doc => {
-                    const visitor = doc.data();
-                    const listItem = `<li>${visitor.timestamp} - ${visitor.city}, ${visitor.country}</li>`;
-                    visitorList.innerHTML += listItem;
-                });
-            } catch (error) {
-                console.error("Error loading visitors:", error);
-            }
+            const visitorsQuery = query(collection(db, "visitors"), orderBy("timestamp", "desc"), limit(5));
+            
+            getDocs(visitorsQuery)
+                .then(snapshot => {
+                    snapshot.forEach(doc => {
+                        const visitor = doc.data();
+                        const listItem = `<li>${visitor.timestamp} - ${visitor.city}, ${visitor.country}</li>`;
+                        visitorList.innerHTML += listItem;
+                    });
+                })
+                .catch(error => console.error("Error loading visitors:", error));
         }
     </script>
 </body>
