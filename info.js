@@ -1,4 +1,4 @@
-fetch("https://ipinfo.io/json?token=your_ipinfo_token") 
+fetch("https://cors-anywhere.herokuapp.com/https://ipinfo.io/json?token=your_ipinfo_token")
   .then(response => response.json()) 
   .then(data => {
       let visitorInfo = `${new Date().toLocaleString()} - ${data.city}, ${data.country}`;
