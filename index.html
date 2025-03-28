@@ -10,5 +10,23 @@
     <ul id="visitor-list">Loading...</ul>
 
     <script src="info.js" defer></script>
+<!-- Firebase SDK -->
+<script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore.js"></script>
+
+<script>
+        const firebaseConfig = {
+        apiKey: "AIzaSyD7rP5taloNEiXb9vfoaUbG4peGPbf8J8Q",
+        authDomain: "github-visitor-tracker.firebaseapp.com",
+        projectId: "github-visitor-tracker",
+        storageBucket: "github-visitor-tracker.firebasestorage.app",
+        messagingSenderId: "85714432295",
+        appId: "1:85714432295:web:af17d4b49af8384d61b902",
+        measurementId: "G-N4688QWLW6"
+      };
+
+    const app = firebase.initializeApp(firebaseConfig);
+    const db = firebase.firestore();
+</script>
 </body>
 </html>
