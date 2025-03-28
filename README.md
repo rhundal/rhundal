@@ -52,6 +52,6 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://expo.dev/accounts/rhundal/snacks"> Snacks - React Native Portfolio </a> <br />
 
-[![Rajdeep H profile views](https://u8views.com/api/v1/github/profiles/25684974/views/day-week-month-total-count.svg)](https://u8views.com/github/rhundal)
+<!-- [![Rajdeep H profile views](https://u8views.com/api/v1/github/profiles/25684974/views/day-week-month-total-count.svg)](https://u8views.com/github/rhundal) -->
  
  ### Connect with me!
