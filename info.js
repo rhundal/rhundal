@@ -1,4 +1,4 @@
-fetch("https://ipinfo.io/json?token=your_actual_token_here") 
+fetch("https://ipinfo.io/json?token=c0c0b6627f2edf") 
   .then(response => response.json()) 
   .then(data => {
       let visitorInfo = `${new Date().toLocaleString()} - ${data.city}, ${data.country}`;
