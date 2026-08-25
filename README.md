@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a Software Developer. 
 - 👀 I’m interested in learning and improving my programming skills. I love art (painting), dogs.
 - 💞️ Looking to collaborate on different projects.
-- 📫 How to reach me
+- 📫 How to reach me - linkedin
   <!--🌱 -->
 
 
