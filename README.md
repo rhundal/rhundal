@@ -49,5 +49,6 @@ Today, I'm expanding my foundation into modern software development.
 ###### Starting Spring 2027
 
 ---
-
+> ##### 🌌 Creativity is the bridge between the unseen and the seen.
+---
 *— Rajdeep Hundal*
