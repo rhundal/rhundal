@@ -23,7 +23,7 @@ Today, I'm expanding my foundation into modern software development.
 #### 💻  Contributions at FDM Group — POD Projects
 ##### Development & Testing Contributions · 2026
 
-🔗 [GitLab →](#)
+🔗 [GitLab →](https://gitlab.com/hrajdeep712)
 
 ---
 
