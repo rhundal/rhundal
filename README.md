@@ -1,5 +1,3 @@
-### About Me ~ Rajdeep Hundal
-
-#### Former Flash Developer | Present MERN & Java Developer 🐾
+### About Me ~ Rajdeep Hundal 
 
 *— Rajdeep Hundal*
