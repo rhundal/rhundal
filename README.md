@@ -1,6 +1,6 @@
 ### About Me ~ Rajdeep Hundal 
 
-### Creative Technologist | Full Stack Developer
+#### Creative Technologist | Full Stack Developer
 
 
 
