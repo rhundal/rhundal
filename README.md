@@ -1,5 +1,6 @@
 ### About Me ~ Rajdeep Hundal 
-#### Original Thinker | Full-Stack Developer | Creative Technologist | Automation Tester
+#### Original Thinker & Creative Technologist some of my skills include:
+  ##### Full-Stack Development | Automation Testing
 
 
 *— Rajdeep Hundal*
